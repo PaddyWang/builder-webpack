@@ -1,5 +1,5 @@
 {
-  "name": "builder-webpack",
+  "name": "toy-builder-webpack",
   "version": "1.0.0",
   "description": "builder webpack",
   "main": "index.js",
