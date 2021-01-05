@@ -1,6 +1,6 @@
 {
   "name": "toy-builder-webpack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "builder webpack",
   "main": "index.js",
   "scripts": {
